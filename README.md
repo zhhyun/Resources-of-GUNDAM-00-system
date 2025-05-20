@@ -7,9 +7,7 @@ This Repo is try to collect resources related to operation system materials in M
 ## Author：[阔落咸鱼2025](https://space.bilibili.com/20686294)
 ## Deactive mode
 ![Deactive](./00_deactive.png)
-00 的未启动转态。剧照参考:
-
-![03](./Screenshots/03.png)
+00 的未启动转态。
 
 ## Active mode
 <video src="./sample.mp4" controls width="600"></video>
@@ -23,6 +21,4 @@ This Repo is try to collect resources related to operation system materials in M
 ## O-Raiser
 ![Deactive](./00-Raiser.png)
 
-00 Gundam和O-Raiser对接后的系统画面。参考：
-
-![01](./Screenshots/01.jpg)![04](./Screenshots/04.png)
+00 Gundam和O-Raiser对接后的系统画面。
