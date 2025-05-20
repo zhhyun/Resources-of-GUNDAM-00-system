@@ -9,12 +9,12 @@ Author：[阔落咸鱼2025](https://space.bilibili.com/20686294)
 *.ai文件是矢量图工程文件，使用Adobe Illustrator打开。
 ## Deactive mode
 ![Deactive](./00_deactive.png)
-00 的未启动转态。
+00 的未启动状态。
 
 ## Active mode
 [![Active](./sample.png)](./demo.mp4)
 
-00 Gundam第一次Twin-Drive同步成功时的画面(点击查看视频)。00身体部分从灰色变成青色。演示效果使用[rainmeter](https://www.rainmeter.net/)实现。如果对该demo感兴趣请持续关注本仓库。
+00 Gundam第一次Twin-Drive同步成功时的画面(可查看[演示视频](./demo.mp4))。00身体部分从灰色变成青色。演示效果使用[rainmeter](https://www.rainmeter.net/)实现。如果对该demo感兴趣请持续关注本仓库。
 
 ## O-Raiser
 ![Deactive](./00-Raiser.png)
